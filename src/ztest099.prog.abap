@@ -20,6 +20,6 @@ CALL FUNCTION 'ZFM_GET_TABLE_ALV_FROM_REPORT'
     t_data        = t_data
     t_rsparams    = t_selection.
 
-MESSAGE 'testing' type 'E' DISPLAY LIKE 'S'.
+*MESSAGE 'testing' type 'E' DISPLAY LIKE 'S'.
 
 BREAK-POINT.
