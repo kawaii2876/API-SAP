@@ -22,6 +22,11 @@ CALL FUNCTION 'ZFM_GET_TABLE_ALV_FROM_REPORT'
 
 MESSAGE 'testing' type 'E' DISPLAY LIKE 'S'.
 
-"testing branch main
+
+"testing patch 2
+
+MESSAGE 'testing2' type 'E' DISPLAY LIKE 'S'.
+
+
 
 BREAK-POINT.
