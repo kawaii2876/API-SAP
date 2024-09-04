@@ -24,4 +24,6 @@ MESSAGE 'testing' type 'E' DISPLAY LIKE 'S'.
 
 "testing patch 2
 
+MESSAGE 'testing2' type 'E' DISPLAY LIKE 'S'.
+
 BREAK-POINT.
